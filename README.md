@@ -1,4 +1,4 @@
-#RESUMO
+# RESUMO
 Este estudo compara cinco Modelos de Linguagem de Grande Porte (LLMs), Gemini 1.5 Flash, Claude Sonnet 4.5, GPT-4o mini, Copilot Smart (GPT-5) e DeepSeek-V3, em sua capacidade de gerar automaticamente casos de teste para um módulo de gerenciamento de usuários com regras de validação e operações CRUD. Cada modelo recebeu o mesmo prompt, e os testes gerados foram avaliados por métricas quantitativas e qualitativas.
 Os resultados mostram grande variabilidade entre os modelos. O Gemini 1.5 obteve o melhor desempenho, gerando testes de sucesso, erro e borda, enquanto Claude Sonnet produziu mais testes e cobertura completa de métodos, mas sem casos negativos ou de borda. Os outros modelos focaram principalmente em caminhos de sucesso.
 O estudo conclui que LLMs podem melhorar a geração de testes, mas ainda exigem supervisão humana para garantir correção e completude, indicando limitações atuais e oportunidades para aprimorar a confiabilidade da automação de testes de software.
