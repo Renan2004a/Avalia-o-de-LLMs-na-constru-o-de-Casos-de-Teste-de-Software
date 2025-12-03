@@ -10,9 +10,11 @@ detalhado de casos de teste.
 ### Regras do Sistema: 
 1. nome deve ser string entre 2 e 100 caracteres. 
 2. email deve ter formato válido. 
-3. idade deve ser inteiro ≥ 18. 4. Ativo deve ser booleano. 5. O ID é gerado automaticamente caso não seja fornecido. 
+3. idade deve ser inteiro ≥ 18.
+4. Ativo deve ser booleano.
+5. O ID é gerado automaticamente caso não seja fornecido. 
 6. criarUsuario lança erro se o ID já existir. 
-7.buscarUsuario retorna usuário ou None. 
+7. buscarUsuario retorna usuário ou None. 
 8. atualizarUsuario lança erro se o usuário não existir. 
 9. excluirUsuario retorna True/False.
 
