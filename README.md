@@ -17,10 +17,10 @@ detalhado de casos de teste.
 9. excluirUsuario retorna True/False.
 
 ### Grupos de Testes: 
-1 — Testes de Sucesso 
-2 — Testes de Erro
-3 — Casos de Borda 
-4 — Testes por Método (criarUsuario, buscarUsuario, atualizarUsuario, excluirUsuario)
+1.  Testes de Sucesso 
+2. Testes de Erro
+3. Casos de Borda 
+4. Testes por Método (criarUsuario, buscarUsuario, atualizarUsuario, excluirUsuario)
 
 ### Formato obrigatório de cada teste: 
 - Nome do teste: 
